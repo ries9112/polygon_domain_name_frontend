@@ -19,13 +19,12 @@ p {
 
 .header-container {
   padding-top: 30px;
+  text-align: center;
 }
 
 header{
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  padding: 10px 10px 10px 10px;
+  padding: 10px 200px 10px 10px;
+  text-align: center;
 }
 
 .title {
@@ -33,6 +32,7 @@ header{
   font-size: 35px;
   font-weight: bold;
   color: white;
+  text-align: center;
 }
 
 .subtitle {
